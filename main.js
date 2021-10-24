@@ -1,9 +1,9 @@
 const linksSocialMedia = {
   github: 'lucaasferreira',
-  youtube: 'lucasDev',
-  facebook: 'lucasferreira',
+  youtube: '',
+  facebook: 'lucasdevferreira',
   instagram: 'lucas._.ferreira',
-  twitter: 'lucas._.ferreira'
+  twitter: ''
 }
 
 function changeSocialMediaLinks() {
