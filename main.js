@@ -3,7 +3,7 @@ const linksSocialMedia = {
   youtube: '',
   facebook: 'lucasdevferreira',
   instagram: 'lucas._.ferreira',
-  twitter: ''
+  twitter: 'devlucasf'
 }
 
 function changeSocialMediaLinks() {
